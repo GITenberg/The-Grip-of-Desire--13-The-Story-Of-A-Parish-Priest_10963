@@ -1,0 +1,33 @@
+_repo: The-Grip-of-Desire--13-The-Story-Of-A-Parish-Priest_10963
+_version: 0.0.1
+contributor:
+  author_of_afterword:
+    agent_name: Carrington, Charles
+    alias: Fernandino, Paul Harry
+    birthdate: 1867
+    deathdate: 1921
+    gutenberg_agent_id: '38308'
+    url: http://www.gutenberg.org/2009/agents/38308
+creator:
+  author:
+    agent_name: France, Hector
+    birthdate: 1837
+    deathdate: 1908
+    gutenberg_agent_id: '3772'
+    url: http://www.gutenberg.org/2009/agents/3772
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10963'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Priests -- Fiction'
+- !lcsh 'Villages -- France -- Fiction'
+- GITenberg
+title: "The Grip of Desire\r\nThe Story Of A Parish-Priest"
+url: http://www.gutenberg.org/ebooks/10963
